@@ -1,8 +1,8 @@
-import zhCN from './langs/zh-cn';
+import viVN from './langs/vi-vn';
 import enUS from './langs/en-us';
 
 const locales: Record<App.I18n.LangType, App.I18n.Schema> = {
-  'zh-CN': zhCN,
+  'vi-VN': viVN,
   'en-US': enUS
 };
 

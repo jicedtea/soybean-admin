@@ -10,7 +10,7 @@ interface Props {
   /**
    * BetterScroll options
    *
-   * @link https://better-scroll.github.io/docs/zh-CN/guide/base-scroll-options.html
+   * @link https://better-scroll.github.io/docs/guide/base-scroll-options.html
    */
   options: Options;
 }

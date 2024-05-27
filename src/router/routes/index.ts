@@ -82,7 +82,7 @@ const customRoutes: CustomRoute[] = [
         path: '/document/naive',
         component: 'view.iframe-page',
         props: {
-          url: 'https://www.naiveui.com/zh-CN/os-theme/docs/introduction'
+          url: 'https://www.naiveui.com/os-theme/docs/introduction'
         },
         meta: {
           title: 'document_naive',
